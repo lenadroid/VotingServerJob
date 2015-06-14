@@ -2,6 +2,7 @@
 #r "../packages/Suave/lib/net40/Suave.dll"
 #r "../packages/Dynamitey/lib/net40/Dynamitey.dll"
 #r "../packages/Microsoft.AspNet.SignalR.Core/lib/net45/Microsoft.AspNet.SignalR.Core.dll"
+#r "../packages/Newtonsoft.Json/lib/net45/Newtonsoft.Json.dll"
 #r "../packages/Microsoft.AspNet.Cors/lib/net45/System.Web.Cors.dll"
 #r "../packages/Microsoft.Owin/lib/net45/Microsoft.Owin.dll"
 #r "../packages/Microsoft.Owin.Hosting/lib/net45/Microsoft.Owin.Hosting.dll"
