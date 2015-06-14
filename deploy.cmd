@@ -55,7 +55,7 @@ IF NOT DEFINED KUDU_SYNC_CMD (
 IF NOT EXIST ".paket\paket.bootstrapper.exe" (
   echo Downloading paket.bootstrapper.exe
   mkdir .paket
-  curl https://github.com/fsprojects/Paket/releases/download/1.2.0/paket.bootstrapper.exe -L --insecure -o .paket\paket.bootstrapper.exe
+  curl https://github.com/fsprojects/Paket/releases/tag/1.13.0/paket.bootstrapper.exe -L --insecure -o .paket\paket.bootstrapper.exe
 )
 
 .paket\paket.bootstrapper.exe

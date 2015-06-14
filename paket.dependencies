@@ -2,3 +2,10 @@ source https://nuget.org/api/v2
 
 nuget FAKE
 nuget Suave
+nuget Dynamitey ~> 1.0.2.0
+nuget FSharp.Dynamic ~> 1.4.2.0
+nuget Microsoft.AspNet.SignalR.SelfHost ~> 2.2.0
+nuget Microsoft.AspNet.SignalR.Core ~> 2.2.0
+nuget Microsoft.AspNet.Cors ~> 5.0.0
+nuget Microsoft.Owin.SelfHost
+nuget Microsoft.Owin.Cors
